@@ -4,6 +4,7 @@
 
 如果您觉得对你有帮助，请不要吝啬给一个star，在这里感谢你的每一个star，谢谢！
 
+### 注意事项（请善于使用 ctrl + F 进行搜索）
 
 ### Java基础篇
 
@@ -29,11 +30,11 @@
 
 高清电子版-Java核心技术卷一基础知识第10版.pdf 链接: https://pan.baidu.com/s/1HkCbR2hpJ2pLk2dT80S5MQ  密码: ksfg
 
-高清电子版-JAVA核心知识点整理.pdf 链接: https://pan.baidu.com/s/18KKAy1aiAE7TUQNX0aI6bg  密码: 4fn0
+高清电子版-JAVA核心知识点整理.pdf 链接: https://pan.baidu.com/s/105cujotAU7EG4SjdcNSVDQ 提取码: s4bs
 
 高清电子版-java基础教程(强烈推荐).pdf 链接: https://pan.baidu.com/s/12xJ1ecPTqzQJmg18KG8ibA  密码: bj3i
 
-高清电子版-疯狂JAVA讲义.pdf 链接: https://pan.baidu.com/s/1IqRDcyKss4JCO8l3kJKhwA  密码: 7nbi
+高清电子版-疯狂JAVA讲义.pdf 链接: https://pan.baidu.com/s/1DP2mG9QUi2RVT3u-Zr4BuA 提取码: jj1q
 
 高清电子版-面向对象程序设计 图形应用实例.pdf 链接: https://pan.baidu.com/s/1BF7Dug9FgX2e0BUg06JKTA  密码: c9id
 
@@ -64,17 +65,17 @@
 
 高清电子版-[Java] Java程序员修炼之道.pdf 链接: https://pan.baidu.com/s/1m_yKVj65BUuoX619OyaxTw  密码: pbrl
 
-高清电子版-[Java] Java开发之道.pdf 链接: https://pan.baidu.com/s/1WhAyoUXTHgoN-m-A00nI3A  密码: q8dp
+高清电子版-[Java] Java开发之道.pdf 链接: https://pan.baidu.com/s/1dIw7BjIBMO0Kz2XhSaUyCA 提取码: ni2j
 
-高清电子版-[Java] Java语言程序设计-进阶篇(原书第8版).pdf 链接: https://pan.baidu.com/s/1K9zPZ7ivsT8XA7P4EMzpDw  密码: wv90
+高清电子版-[Java] Java语言程序设计-进阶篇(原书第8版).pdf 链接: https://pan.baidu.com/s/18-8e4yjtj0jl6QuGdqHqhw 提取码: asr3 
 
 高清电子版-[Java] 菜鸟成长之路—Java程序员职场全攻略.pdf 链接: https://pan.baidu.com/s/1xFM6moTzb1zpB6m3jPdThA  密码: to7f
 
-高清电子版-[Java典型应用彻查1000例：数据库应用基础].pdf 链接: https://pan.baidu.com/s/1ntlE2VAl4IMDI52UFPFQkA  密码: ipp9
+高清电子版-[Java典型应用彻查1000例：数据库应用基础].pdf 链接: https://pan.baidu.com/s/1ifmLZ23Qsg38pj0m5hTYTA 提取码: mi6q
 
 高清电子版-[Java典型应用彻查1000例：图形与网络游戏开发].pdf 链接: https://pan.baidu.com/s/1FIqmYGD-6HkOAI18StZ32A  密码: 6agb
 
-高清电子版-[Java典型应用彻查1000例：网络应用开发].pdf 链接: https://pan.baidu.com/s/19YDyDoZeHg3HmnXJoW9NNA  密码: b0jb
+高清电子版-[Java典型应用彻查1000例：网络应用开发].pdf 链接: https://pan.baidu.com/s/1lw6Y8qjKN6yVrvyEhpT6lQ 提取码: aff0
 
 高清电子版-[Java典型应用彻查1000例：网站数据库设计].pdf 链接: https://pan.baidu.com/s/1A8gMDljBFrGqioOzuopZxQ  密码: 8k45
 
@@ -82,7 +83,7 @@
 
 高清电子版-《码出高效：Java开发手册》.pdf 链接: https://pan.baidu.com/s/1Iq_W1ykLMHcDI3Ia1No4gg  密码: wadh
 
-高清电子版-编程之美-完整版.pdf 链接: https://pan.baidu.com/s/175ek_zYI_sH22GCRJ9anyA  密码: fhwi
+高清电子版-编程之美-完整版.pdf 链接: https://pan.baidu.com/s/18-8e4yjtj0jl6QuGdqHqhw 提取码: asr3
 
 高清电子版-编写高效优雅Java程序.pdf 链接: https://pan.baidu.com/s/1Hwr6xiB9PFEeNcvvjmBMzw  密码: k4b6
 
@@ -90,7 +91,7 @@
 
 高清电子版-代码整洁之道.pdf 链接: https://pan.baidu.com/s/1oGk_hqaJo3-Rce1OLvo8jw  密码: a87r
 
-高清电子版-构建高性能WEB站点.pdf 链接: https://pan.baidu.com/s/1xwXPiLcJODV9dIjQZjfGDQ  密码: pna3
+高清电子版-构建高性能WEB站点.pdf 链接: https://pan.baidu.com/s/1AQKQRncDTOywZNe0A2CMyg 提取码: tcm2
 
 高清电子版-计算机程序设计艺术（第二卷）高清中文版.pdf 链接: https://pan.baidu.com/s/18esBE4qQSC-7FO5DmEM6Rw  密码: qv58
 
@@ -104,17 +105,17 @@
 
 高清电子版-深入理解Java虚拟机（第二版-带目录）.pdf 链接: https://pan.baidu.com/s/1c-xGoYvKqkNmyWzt1oSwQw  密码: lns1
 
-高清电子版-实战Java虚拟机.pdf 链接: https://pan.baidu.com/s/1SIsLbhmM5tug77XVfLrarQ  密码: 2jmt
+高清电子版-实战Java虚拟机.pdf 链接: https://pan.baidu.com/s/1V-E-m5EmZq6HWYzjoqvzbQ 提取码: 0kfv
 
 高清电子版-重构-改善既有代码的设计.pdf 链接: https://pan.baidu.com/s/1nRZNmh4mLJWuZkgAQG6FCA  密码: 5evd
 
 ### JavaWeb篇
 
-高清电子版-Head First Servlets and JSP 中文版 第2版.pdf 链接: https://pan.baidu.com/s/1al36a47EG63F0gb0hvg8sA  密码: 0jow
+高清电子版-Head First Servlets and JSP 中文版 第2版.pdf 链接: https://pan.baidu.com/s/18-_tDYI68m0SFc_sQiDTDA 提取码: iw4v
 
 高清电子版-J2EE集群的神秘面纱 (1).pdf 
 
-高清电子版-Java RESTful Web Service实战 [韩陆著].pdf 链接: https://pan.baidu.com/s/1VXSLyJmteqDJUsKjfDlrIw  密码: 9om5
+高清电子版-Java RESTful Web Service实战 [韩陆著].pdf 链接: https://pan.baidu.com/s/1R4tPgNfNgr50zWJ-4_5Fyg 提取码: iqjj
 
 高清电子版-JAVA web模式设计之道(jb51.net).pdf 链接: https://pan.baidu.com/s/1rw-hNFvSVIbCZHw44ys64w  密码: u30e
 
@@ -160,9 +161,9 @@
 
 高清电子版-图解HTTP.pdf 链接: https://pan.baidu.com/s/1Hm1iNZJkmen_jU2xz3OJRQ  密码: 91rr
 
-### Java高并发等
+### Java高并发-多线程-网络编程-JVM
 
-高清电子版-Java 7并发编程实战手册.pdf 链接: https://pan.baidu.com/s/1imLclSqX2hmVkoUxiiO1Ww  密码: bkc6
+高清电子版-Java 7并发编程实战手册.pdf 链接: https://pan.baidu.com/s/1r2sEjKBZH5EiBSeciAq-IQ 提取码: hnl0
 
 高清电子版-Java NIO (中文版).pdf 链接: https://pan.baidu.com/s/1y2j76KUJKOZijGvzOXEgSg  密码: 0wqv
 
@@ -170,17 +171,17 @@
 
 高清电子版-Java+JVM.pdf 链接: https://pan.baidu.com/s/1gRX1joZtkS1a2487AvL8Ig  密码: vafe
 
-高清电子版-JAVA并发编程 核心方法与框架 高洪岩著.pdf 链接: https://pan.baidu.com/s/12mqvbPELgztqMJO7A_benw  密码: rrio
+高清电子版-JAVA并发编程 核心方法与框架 高洪岩著.pdf 链接: https://pan.baidu.com/s/1qiadNwj5PxonFpRGT3Hneg 提取码: w2gj
 
 高清电子版-Java并发编程：设计原则与模式（第二版）.pdf 链接: https://pan.baidu.com/s/1mevIT3feswPQe1mPQvMM7A  密码: 7qo5
 
 高清电子版-Java并发编程的艺术.pdf 链接: https://pan.baidu.com/s/1O6ERIW6FGcEB9EWpkjL18g  密码: c0ht
 
-高清电子版-JAVA并发编程实践（中文）.pdf 链接: https://pan.baidu.com/s/1EK8MnsToIB5AZYTGYWyUDA  密码: 192o
+高清电子版-JAVA并发编程实践（中文）.pdf 链接: https://pan.baidu.com/s/1J6Se3msClb3hp62RywTC6w 提取码: mujc
 
 高清电子版-Java并发编程学习笔记.pdf 链接: https://pan.baidu.com/s/1YSK7T8coqGyZC6XBTIKTvQ  密码: qghs
 
-高清电子版-Java多线程编程核心技术_完整版.pdf 链接: https://pan.baidu.com/s/1IUFjZVNau3cGvop3RcwElw  密码: e8hj
+高清电子版-Java多线程编程核心技术_完整版.pdf 链接: https://pan.baidu.com/s/1aihNDIx_UtvRubE3zSRXAw 提取码: sf8u
 
 高清电子版-Java多线程编程深入详解.pdf 链接: https://pan.baidu.com/s/1it36IAy42Lp7oBg8rqbHfQ  密码: htfo
 
@@ -192,17 +193,17 @@
 
 高清电子版-JVM.Spec.v9.pdf 链接: https://pan.baidu.com/s/1B7SKKHktpS3T98maEJspmg  密码: 7ni3
 
-高清电子版-JVM定制改进 @ 淘宝.pdf 链接: https://pan.baidu.com/s/1Wdit_Pl-EbYHS3WWQrcL2A  密码: 7u1w
+高清电子版-JVM定制改进 @ 淘宝.pdf 链接: https://pan.baidu.com/s/1OmfphG_hiXHs8RTHmaBxig 提取码: gct4
 
 高清电子版-Netty in Action第五版.pdf 链接: https://pan.baidu.com/s/1VxzvHqP9ohF2BX1rgOTkdg  密码: uwn6
 
-高清电子版-Netty 实战(精髓).pdf 链接: https://pan.baidu.com/s/1u9ljFS_gOUf6RjUDGxc5JQ  密码: f37k
+高清电子版-Netty 实战(精髓).pdf 链接: https://pan.baidu.com/s/1FNx6RBlrw72gfVk_EUtGig 提取码: c0wj
 
-高清电子版-Netty权威指南 PDF电子书下载 带目录书签 完整版.pdf 链接: https://pan.baidu.com/s/1EwaHvxLkYW1XoqyQuJ_Lag  密码: 71od
+高清电子版-Netty权威指南 PDF电子书下载 带目录书签 完整版.pdf 链接: https://pan.baidu.com/s/1D2Mtx_n_145nqY8poYzGBw 提取码: wwiv
 
-高清电子版-TCPIP网络编程技术基础.pdf 链接: https://pan.baidu.com/s/1wm790V_m1SkyoiLHzmJ-5Q  密码: etjc
+高清电子版-TCPIP网络编程技术基础.pdf 链接: https://pan.baidu.com/s/1Jpek0ONSHLPf2j4HiRxc8g 提取码: nfat
 
-高清电子版-TCPIP详解卷1.pdf 链接: https://pan.baidu.com/s/1TR2ai1M1Z1rTX3yvdl_OdQ  密码: jm7v
+高清电子版-TCPIP详解卷1.pdf 链接: https://pan.baidu.com/s/1cn-wkmgiH02C_XzP95Q0zA 提取码: bgii
 
 高清电子版-TCPIP详解卷2.pdf 链接: https://pan.baidu.com/s/13fzBRkKKpBM72svllUlUEA  密码: 9449
 
@@ -252,13 +253,13 @@
 
 高清电子版-SPRING 实战（第3版）.pdf 链接: https://pan.baidu.com/s/1MCiqEJIamA80sycip9It5Q  密码: j3fk
 
-高清电子版-Spring+MVC+MYBatis企业应用实战.pdf 链接: https://pan.baidu.com/s/1j35YR6-kolXkUdWDooWlrA  密码: v5f3
+高清电子版-Spring+MVC+MYBatis企业应用实战.pdf 链接: https://pan.baidu.com/s/1OBh6-zUU79XQ2WdgCJNlfA 提取码: 95hr
 
 高清电子版-Spring+Security3+张卫滨(译).pdf 链接: https://pan.baidu.com/s/1BctZSQl_VzA0NzLAi95WlQ  密码: e6va
 
 高清电子版-spring-framework-reference.pdf 链接: https://pan.baidu.com/s/1y8HnvevLceqZ-UjYSgqxLQ  密码: h7vt
 
-高清电子版-springMvc教学.pdf 链接: https://pan.baidu.com/s/1kbNhltKfIhZTdrykf8dbBQ  密码: 8ue7
+高清电子版-springMvc教学.pdf 链接: https://pan.baidu.com/s/1ihwA9cbid_BlbJDGNoImvg 提取码: qo98
 
 高清电子版-SPRING技术内幕：深入解析SPRING架构与设计原理.pdf 链接: https://pan.baidu.com/s/1Uh3SyEAzLQYmA7aBkNTYQw  密码: 1puc
 
@@ -272,9 +273,9 @@
 
 高清电子版-[Spring技术内幕：深入解析Spring架构与设计原理（第2版）].计文柯.扫描版.pdf 链接: https://pan.baidu.com/s/1Dp0_k5oacnYqyRjh4L8wSg  密码: qj3s
 
-高清电子版-《精通Spring4.X企业应用开发实战》.pdf 链接: https://pan.baidu.com/s/1Fd6iHR47gIu_WiZPYSn2Mw  密码: 64q4
+高清电子版-《精通Spring4.X企业应用开发实战》.pdf 链接: https://pan.baidu.com/s/1bBFs1aIt4shnrXadnBv1eQ 提取码: cg5a
 
-高清电子版-《亿级流量网站架构核心技术-跟开涛学搭建高可用高并发系统》.pdf 链接: https://pan.baidu.com/s/1DDABBcJbqH3vGLzeUPJKNg  密码: 33t0
+高清电子版-《亿级流量网站架构核心技术-跟开涛学搭建高可用高并发系统》.pdf 链接: https://pan.baidu.com/s/1im0ml8S7iF0XVEk4xQ3fbQ 提取码: urhn
 
 高清电子版-精通Spring MVC4.pdf 链接: https://pan.baidu.com/s/1B_usb4l0rZ3LozjYcS7Pww  密码: 8k4p
 
@@ -282,7 +283,7 @@
 
 高清电子版-精通Spring企业应用开发实战.pdf 链接: https://pan.baidu.com/s/1C5OkDjkytJbaDsVBYJWXrw  密码: lgvm
 
-高清电子版-开源电子书：spring mvc 开发手册文档.pdf 链接: https://pan.baidu.com/s/1verEvQXObol8VZZVv_z5uw  密码: a34k
+高清电子版-开源电子书：spring mvc 开发手册文档.pdf 链接: https://pan.baidu.com/s/1HxW4nK5GGBr74zW4W-0jOQ 提取码: trfe
 
 高清电子版-看透Spring MVC源代码分析与实践 .pdf 链接: https://pan.baidu.com/s/1tq1InK1qwBJ6bEssx2qXiQ  密码: s30o
 
@@ -372,7 +373,7 @@
 
 高清电子版-Mybatis.pdf 链接: https://pan.baidu.com/s/1MlXyNq_9Gp1NHZGYejI5tg  密码: 03bf
 
-高清电子版-MyBatis3用户指南中文版.pdf 链接: https://pan.baidu.com/s/1w2F3rz5HKX5_owwndbVLDA  密码: ijq0
+高清电子版-MyBatis3用户指南中文版.pdf 链接: https://pan.baidu.com/s/1H1v9FuwjWk_W-3ZXsjLGQg 提取码: knwh
 
 高清电子版-Mybatis_3中文用户指南.pdf 链接: https://pan.baidu.com/s/1eTFLcZHrFyhOlUPirr1sNA  密码: gavm
 
@@ -384,7 +385,7 @@
 
 ### Dubbo
 
-高清电子版-马昕曦-Dubbo 的过去、现在以及未来.pdf 链接: https://pan.baidu.com/s/1vsP2drLslLUqYMN6eWtU-w  密码: tsdg
+高清电子版-马昕曦-Dubbo 的过去、现在以及未来.pdf 链接: https://pan.baidu.com/s/1LfWb9odYRFbJ1eq5gov7Sw 提取码: n89g
 
 ### Tomcat
 
@@ -416,7 +417,7 @@
 
 高清电子版-Git权威指南.pdf 链接: https://pan.baidu.com/s/1FU4ZNioZ9DsncHMpCz0z3A  密码: dsnj
 
-高清电子版-Maven权威指南_中文完整版清晰.pdf 链接: https://pan.baidu.com/s/1rVbbXIzdqjR0XzAD-wNVmg  密码: jjrw
+高清电子版-Maven权威指南_中文完整版清晰.pdf 链接: https://pan.baidu.com/s/1OJxLTUQSNThr9b7tZgPx1w 提取码: 5onm
 
 高清电子版-Maven实战（高清完整带书签）.pdf 链接: https://pan.baidu.com/s/1q5acN-_jWzDhH8ydlQrBcA  密码: lr46
 
@@ -430,9 +431,9 @@
 
 高清电子版-从+0+开始学习+GitHub+系列.pdf 链接: https://pan.baidu.com/s/173qz3cUVugb6SlkyQ_EUTg  密码: plok
 
-高清电子版-开源电子书：Gradle 使用手册.pdf 链接: https://pan.baidu.com/s/1aVdSkG2HyRRES1WxwG5X2w  密码: gqwd
+高清电子版-开源电子书：Gradle 使用手册.pdf 链接: https://pan.baidu.com/s/1X_C1rq9T7AInrFE3so7rKw 提取码: gjdi
 
-高清电子版-完全学会GIT GITHUB GIT SERVER的24堂课.pdf 链接: https://pan.baidu.com/s/1hcyLrbXm_oCQMYHkqMwbng  密码: e88p
+高清电子版-完全学会GIT GITHUB GIT SERVER的24堂课.pdf 链接: https://pan.baidu.com/s/1SAtnahi2dmPrCjBE45XMQw 提取码: 79bm
 
 ### Mysql篇
 
@@ -444,19 +445,19 @@
 
 高清电子版-004-MySQL 5权威指南中文版第3版.pdf 链接: https://pan.baidu.com/s/1oGMJf-tmIfzuQA9oueUKHw  密码: wseg
 
-高清电子版-005-MySQL入门很简单－学习笔记.pdf 链接: https://pan.baidu.com/s/1xhrdAX4jzNgyNQOIE2xTKw  密码: 0r55
+高清电子版-005-MySQL入门很简单－学习笔记.pdf 链接: https://pan.baidu.com/s/1-TUIi6jZtyiUBawZHDYG6w 提取码: htk1
 
 高清电子版-006-MySQL开发者SQL权威指南.pdf 链接: https://pan.baidu.com/s/1Mkhq7mdTugj39tB99JBp9w  密码: rhlk
 
-高清电子版-007-MySQL最佳优化完美攻略.pdf 链接: https://pan.baidu.com/s/1j6uQm0DD6Wv1ovWmGUOz0Q  密码: c1l2
+高清电子版-007-MySQL最佳优化完美攻略.pdf 链接: https://pan.baidu.com/s/1sorflAH18de3nT_6Qk5V3A 提取码: t3sr
 
-高清电子版-009-MySQL技术内幕 InnoDB存储引擎 第2版.pdf 链接: https://pan.baidu.com/s/10ZpQyxHEDcWUl1X80ke6Rw  密码: r6hf
+高清电子版-009-MySQL技术内幕 InnoDB存储引擎 第2版.pdf 链接: https://pan.baidu.com/s/1Gz7csp5MQpwut6krGHvdWg 提取码: cekc
 
-高清电子版-010-MySQL数据库开发的三十六条规定-石展.pdf 链接: https://pan.baidu.com/s/1ZSM_k3kzE9qL8nz-yiV9EQ  密码: meq3
+高清电子版-010-MySQL数据库开发的三十六条规定-石展.pdf 链接: https://pan.baidu.com/s/1973ttuNgu34BdcmSjSfKyA 提取码: g43a
 
-高清电子版-011-MySQL性能调优与架构设计.pdf 链接: https://pan.baidu.com/s/19efCvA41e90mta5vti2B9Q  密码: rf01
+高清电子版-011-MySQL性能调优与架构设计.pdf 链接: https://pan.baidu.com/s/1wCo9QY4NATq542D5MoeQYQ 提取码: gv68
 
-高清电子版-012-MySQL管理之道，性能调优，高可用与监控（第二版）.pdf 链接: https://pan.baidu.com/s/1lbNltJtOQo-MrEQDAIYV_w  密码: vsvh
+高清电子版-012-MySQL管理之道，性能调优，高可用与监控（第二版）.pdf 链接: https://pan.baidu.com/s/12bK2g054c83i0RD8GAtrlw 提取码: khb8
 
 高清电子版-MySQL高性能书籍_第3版（中文）.pdf 链接: https://pan.baidu.com/s/1hT7sr4FLZZ5ePZ4jM-WSEQ  密码: i4mu
 
@@ -470,17 +471,17 @@
 
 高清电子版-SQL 经典实例.pdf 链接: https://pan.baidu.com/s/1Xr23v1nza6N8ez_x5hhK-g  密码: 4i0f
 
-高清电子版-SQLite 权威指南.pdf 链接: https://pan.baidu.com/s/1eJR4Jyw-AunFEZpqc4F67w  密码: o0jh
+高清电子版-SQLite 权威指南.pdf 链接: https://pan.baidu.com/s/1jkAKtE6CqCYU7kjhs6Bg8A 提取码: eueu
 
-高清电子版-SQL语句大全大全(经典珍藏版).pdf 链接: https://pan.baidu.com/s/11vPphgJSnBtqfE3TyGsLXQ  密码: 5rqo
+高清电子版-SQL语句大全大全(经典珍藏版).pdf 链接: https://pan.baidu.com/s/1ZtDVs_ZqxVHMaEHo_WHjBw 提取码: as28
 
 高清电子版-SQL语言艺术.pdf 链接: https://pan.baidu.com/s/17mwgiKlM1rA5A7i1Zw0OuQ  密码: 7d2r
 
-高清电子版-SQL注入攻击与防御 第2版.pdf 链接: https://pan.baidu.com/s/1rN_yTMUAnam5y5HfP8XWEQ  密码: gwcw
+高清电子版-SQL注入攻击与防御 第2版.pdf 链接: https://pan.baidu.com/s/1fjBYX3HjHgD2m3no3b4n3Q 提取码: 901a
 
 高清电子版-SQL注入攻击与防御 原书第2版.pdf 链接: https://pan.baidu.com/s/19EPr6CTXPVCRsKkwdu8kaw  密码: 65ot
 
-高清电子版-[MySQL技术内幕：SQL编程].姜承尧.扫描版[电子书.pdf 链接: https://pan.baidu.com/s/1YCN4LRYayhvdehqQUS68NQ  密码: jqko
+高清电子版-[MySQL技术内幕：SQL编程].姜承尧.扫描版[电子书.pdf 链接: https://pan.baidu.com/s/195RXvOHhTjMiYHpj5_S3Cw 提取码: 99gr
 
 高清电子版-《SQL查询的艺术》 链接: https://pan.baidu.com/s/1degAbiX4aYz5Ylk2NdFpfQ  密码: c8lc
 
@@ -488,13 +489,13 @@
 
 高清电子版-高性能MySQL 第3版 中文 .pdf 链接: https://pan.baidu.com/s/1rAsQPpgrn-pqb8gnmvf4Qw  密码: bu7k
 
-高清电子版-高性能MySQL(第2版)中文版.pdf 链接: https://pan.baidu.com/s/1rYm5FjgzbaADCwSANYfk0w  密码: 2379
+高清电子版-高性能MySQL(第2版)中文版.pdf 链接: https://pan.baidu.com/s/1GRJpsFNnbWJ9nARK0cm5tg 提取码: igg1
 
 高清电子版-高性能MySQL.pdf 链接: https://pan.baidu.com/s/1csypJjbkqCq8GwjPw8HxVQ  密码: pg0u
 
-高清电子版-深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明.pdf 链接: https://pan.baidu.com/s/1UOm6BkAdqhnwJa2BJzQYGA  密码: 1qv5
+高清电子版-深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明.pdf 链接: https://pan.baidu.com/s/1hr1fh2G_dXnssf7nm8K_ig 提取码: 3qgc
 
-高清电子版-深入浅出MySQL数据库开发优化与管理维护.pdf 链接: https://pan.baidu.com/s/10KBz7Vu-cK6r1Y4zdbkXyw  密码: fktv
+高清电子版-深入浅出MySQL数据库开发优化与管理维护.pdf 链接: https://pan.baidu.com/s/1H9AoyIY5gyHidS61c7GAWw 提取码: 6cou
 
 高清电子版-数据库查询优化器的艺术：原理解析与SQL性能优化.pdf 
 
@@ -502,15 +503,15 @@
 
 高清电子版-MongoDB权威指南 第2版 PDF电子书下载 带书签目录 试读版.pdf 链接: https://pan.baidu.com/s/1qvNLowra5nD3qSG-p5aUWA  密码: 6pm9
 
-高清电子版-MongoDB权威指南第2版.pdf 链接: https://pan.baidu.com/s/1qdpsxVhmgCI8ge0HsTpqJg  密码: ugcv
+高清电子版-MongoDB权威指南第2版.pdf 链接: https://pan.baidu.com/s/1Ubq46X3VEhOzUMbPY3QXag 提取码: 3aib
 
-高清电子版-MongoDB实战.pdf 链接: https://pan.baidu.com/s/1dLbyDSwC-fdbuLP4IbcEHA  密码: p5vn
+高清电子版-MongoDB实战.pdf 链接: https://pan.baidu.com/s/1na9S-mHgKRJTBhQNMgQ3wQ 提取码: 8nkw
 
 高清电子版-深入学习MongoDb.pdf 链接: https://pan.baidu.com/s/1d4zzBU6xyqT02IoMQz4_kQ  密码: j47m
 
 ### Redis
 
-高清电子版-Redis 命令参考.pdf 链接: https://pan.baidu.com/s/1UfNrMRlrRrD-U_WUL6IPMg  密码: 8bti
+高清电子版-Redis 命令参考.pdf 链接: https://pan.baidu.com/s/1pyIMCnOg7sKDjpmGpi_mjQ 提取码: dwt0
 
 高清电子版-Redis入门手册（中文）.pdf 链接: https://pan.baidu.com/s/1O3TiztaAGgVFZMmyAjTPtA  密码: 1wqt
 
@@ -522,7 +523,7 @@
 
 高清电子版-Redis设计与实现.pdf 链接: https://pan.baidu.com/s/1Ffjd0srx7-Dq988Wy4OqdQ  密码: 1kfm
 
-高清电子版-Redis实战.pdf 链接: https://pan.baidu.com/s/10mY5Hzd18jmM3f9PYDGZ-A  密码: aows
+高清电子版-Redis实战.pdf 链接: https://pan.baidu.com/s/1Ckbq7YnXym-ojZDkC5OsYQ 提取码: d53m
 
 高清电子版-Redis小白入门指南.pdf 链接: https://pan.baidu.com/s/1HhlEzlpQbSCZrSatXH9o3w  密码: aijp
 
@@ -538,7 +539,7 @@
 
 ### PostgreSQL
 
-高清电子版-PostgreSQL从入门到精通.pdf 链接: https://pan.baidu.com/s/1px8ICTljJFOvG7YhzdgWTg  密码: m97s
+高清电子版-PostgreSQL从入门到精通.pdf 链接: https://pan.baidu.com/s/1u1WfH_7R88ofmiWafRU0QA 提取码: 9tnt
 
 高清电子版-PostgreSQL详解.pdf 链接: https://pan.baidu.com/s/1XWo7uxh7K38_agWGNoI9RA  密码: opnr
 
@@ -554,7 +555,7 @@
 
 高清电子版-Nginx高性能Web服务器详解.pdf 链接: https://pan.baidu.com/s/1JcgF82fB21poR6909H-Q3A  密码: 1k3h
 
-高清电子版-Nginx开发从入门到精通.pdf 链接: https://pan.baidu.com/s/1_dYs2ehNL0yH-r3XAeaeTA  密码: e8ih
+高清电子版-Nginx开发从入门到精通.pdf 链接: https://pan.baidu.com/s/1OEUdq0P2vdZThTJtk9BAWQ 提取码: gdst
 
 高清电子版-精通Nginx第2版.pdf 链接: https://pan.baidu.com/s/1EtAEvQJ21A8BjqBfbuPeQQ  密码: svj0
 
@@ -568,7 +569,7 @@
 
 高清电子版-实战Nginx：取代Apache的高性能Web服务器 张宴.扫描版.pdf 链接: https://pan.baidu.com/s/16NrsiiJoy4utnaeSxGCqDw  密码: h85i
 
-高清电子版-学习Nginx HTTP Server中文版.pdf 链接: https://pan.baidu.com/s/1OT9KBfKkhonYWuqB2KGEcw  密码: vus9
+高清电子版-学习Nginx HTTP Server中文版.pdf 链接: https://pan.baidu.com/s/14lLrlsngAezdW-GCjRn7MA 提取码: wbg6
 
 ### 设计模式
 
@@ -576,7 +577,7 @@
 
 高清电子版-23种设计模式知识要点.pdf 链接: https://pan.baidu.com/s/1wO0BEczH_klnHdzmF3_U6g  密码: phvo
 
-高清电子版-24个java代码(Java经典模式设计).pdf 链接: https://pan.baidu.com/s/1UMJigklIdd6OHqFr2QOuWw  密码: 2t2w
+高清电子版-24个java代码(Java经典模式设计).pdf 链接: https://pan.baidu.com/s/1LCdlcnJE9lJCMZ3iwq_l4Q 提取码: 21jq
 
 高清电子版-Head First设计模式高清版.pdf 
 
@@ -588,11 +589,11 @@
 
 高清电子版-[设计模式之禅].秦小波.pdf 链接: https://pan.baidu.com/s/11IwgpMicdfUJ-lYnPrxydg  密码: kmdi
 
-高清电子版-大话设计模式.pdf 链接: https://pan.baidu.com/s/1kmGq8DzExeks-YcWQ4mhmQ  密码: bida
+高清电子版-大话设计模式.pdf 链接: https://pan.baidu.com/s/1LCGvXg74hxYBtNCRoNHuZA 提取码: heii
 
 高清电子版-设计模式 - 可复用面向对象软件的基础（高清版）.pdf 链接: https://pan.baidu.com/s/197_O1htk0oDGnAESuUzUcg  密码: c8kj
 
-高清电子版-设计模式之禅（第2版）.pdf 链接: https://pan.baidu.com/s/1JetSjIdO618Ta1RQpqIc3w  密码: b9e9
+高清电子版-设计模式之禅（第2版）.pdf 链接: https://pan.baidu.com/s/1DeHgacT8O1Awr8J9Bycp4Q 提取码: rqkw
 
 高清电子版-设计有效的数据库系统_12511476.pdf 链接: https://pan.baidu.com/s/1TE_etHMFVbwQ9zkoZNsEnQ  密码: joms
 
@@ -612,7 +613,7 @@
 
 高清电子版-Linux操作系统下C语言编程入门.pdf 链接: https://pan.baidu.com/s/1i-xZFAioSBm9oHB2vuAULg  密码: 2v1f
 
-高清电子版-Linux程序员指南.pdf 链接: https://pan.baidu.com/s/1ZqIhy_nve6pleTEhhuXPjA  密码: 1dge
+高清电子版-Linux程序员指南.pdf 链接: https://pan.baidu.com/s/1qVyPP82d9laWRCOsZLon3w 提取码: 1o7d
 
 高清电子版-Linux初学者入门优秀教程.pdf 链接: https://pan.baidu.com/s/1hIlUbf2q1H_C4dJ2dIU_Vg  密码: d1hc
 
@@ -640,17 +641,17 @@
 
 高清电子版-鸟哥私房菜（全）.pdf 链接: https://pan.baidu.com/s/1_jg7ZEx-jhrjUsgrCmhm-g  密码: lc4c
 
-高清电子版-循序渐进Linux第2版 .pdf 链接: https://pan.baidu.com/s/1ulahTyE3EWY5aLHUjqur9A  密码: hqiv
+高清电子版-循序渐进Linux第2版 .pdf 链接: https://pan.baidu.com/s/1s-3y2XvygLDbd6rgjdF1Tg 提取码: f4sq
 
 ### 数据结构算法
 
-高清电子版-545346 算法图解.pdf 链接: https://pan.baidu.com/s/1DQjIez7epLYVJacCZ2Kvfg  密码: dr19
+高清电子版-545346 算法图解.pdf 链接: https://pan.baidu.com/s/10Da5uBl8yr_5zNQAPF5LgQ 提取码: 0d9v
 
 高清电子版-HW12 《数据结构与算法》小论文.pdf 链接: https://pan.baidu.com/s/1UZARTMZMrqL19tyHT3X9vw  密码: 2q5v
 
 高清电子版-HW13 高级数据结构.pdf 链接: https://pan.baidu.com/s/1IOqcr5KbHRbGHp2cfpKkDw  密码: jga5
 
-高清电子版-Java常用算法手册.pdf 链接: https://pan.baidu.com/s/1nMapjR-f_CUgtl41eFVmtQ  密码: 9296
+高清电子版-Java常用算法手册.pdf 链接: https://pan.baidu.com/s/1xGLUPgQMEZR988m7seSpgw 提取码: eico
 
 高清电子版-Java数据结构和算法.（第二版）.pdf 链接: https://pan.baidu.com/s/143iZwtjZJKnTiqJuuB4VjQ  密码: 2lgi
 
@@ -660,9 +661,9 @@
 
 高清电子版-《啊哈！算法》.pdf 链接: https://pan.baidu.com/s/1wAKr0vC8hPzFyVKS8Gvarg  密码: e00p
 
-高清电子版-《数据结构》教程c语言版.pdf 链接: https://pan.baidu.com/s/12P9s8q_rXas-fkntGsLtDQ  密码: fkow
+高清电子版-《数据结构》教程c语言版.pdf 链接: https://pan.baidu.com/s/13jDXD2qD-OeIFE_YiHGYdQ 提取码: f0jm
 
-高清电子版-《数据结构与算法 Java版》.pdf 链接: https://pan.baidu.com/s/1a9PZIb6JXqOQ3u7ly9W0ug  密码: 3ekp
+高清电子版-《数据结构与算法 Java版》.pdf 链接: https://pan.baidu.com/s/1o7crizjD9cedC9fULIC0PQ 提取码: 9we0
 
 高清电子版-《图解数据结构-使用Java》.pdf 链接: https://pan.baidu.com/s/1fsWWrvIPH3l-cKHxd_gGDQ  密码: eflg
 
@@ -676,21 +677,21 @@
 
 高清电子版-经典算法大全.pdf 链接: https://pan.baidu.com/s/1vUkLx-6CNpEtBXy0_w2WhQ  密码: 1erg
 
-高清电子版-离散数学导学_11332333.pdf 链接: https://pan.baidu.com/s/1s2Hs76wCZFyv3MrVpKUgcw  密码: 7hpr
+高清电子版-离散数学导学_11332333.pdf 链接: https://pan.baidu.com/s/1E8iYSfptshMxfgVZcH1vtA 提取码: in70
 
 高清电子版-数据结构(C_语言版).pdf 链接: https://pan.baidu.com/s/1Rmp6_H2ffFQToSUaaFBaxg  密码: pfmo
 
 高清电子版-数据结构（Java版）.pdf 链接: https://pan.baidu.com/s/1qG1C-0ZG8I0bKhiFWsFNJg  密码: he1e
 
-高清电子版-数据结构、算法与应用 C++语言描述 原书和引2版.pdf 链接: https://pan.baidu.com/s/19CbtaATmrZ7Vl_rBUbkjiw  密码: lsga
+高清电子版-数据结构、算法与应用 C++语言描述 原书和引2版.pdf 链接: https://pan.baidu.com/s/1yKPvuHwNUo6V3cJJIdadUQ 提取码: p94n
 
-高清电子版-数据结构讲义(严蔚敏版).pdf 链接: https://pan.baidu.com/s/19kgBjtH5cUiQnmlkhRAVsA  密码: l9d2
+高清电子版-数据结构讲义(严蔚敏版).pdf 链接: https://pan.baidu.com/s/1c6FiJhR6yM0yqzl_v586Aw 提取码: t75f
 
 高清电子版-数据结构实例分析.pdf 链接: https://pan.baidu.com/s/16aFy5avg_y78kCf2bLeRQQ  密码: js8g
 
-高清电子版-数据结构与STL_11261832.pdf 链接: https://pan.baidu.com/s/1Gzm78ZYbCacs0fat8wBfGw  密码: iqdi
+高清电子版-数据结构与STL_11261832.pdf 链接: https://pan.baidu.com/s/1lkSxhi5_Y4iAdzv5-sqNNA 提取码: 45dd
 
-高清电子版-数据结构与算法(JAVA语言版解密).pdf 链接: https://pan.baidu.com/s/1Egcou7Rx4O4EY0QcVQpWQQ  密码: 3oml
+高清电子版-数据结构与算法(JAVA语言版解密).pdf 链接: https://pan.baidu.com/s/1AsQShR62i0zi0dATPzBpYw 提取码: 8aoq
 
 高清电子版-数据结构与算法-JAVA语言.pdf 链接: https://pan.baidu.com/s/171LN7K9XnsYf4ZXnTnzYFw  密码: 7mrj
 
@@ -704,7 +705,7 @@
 
 高清电子版-算法导论(原书第3版) 中文完整版 高清扫描版.pdf 链接: https://pan.baidu.com/s/1RuhCJspUsRSOQh9UPNm0Qg  密码: gaql
 
-高清电子版-算法导论（原书第3版）_13234228.pdf 链接: https://pan.baidu.com/s/1kn-VczDZqecqbzQrA8tBxw  密码: jqdb
+高清电子版-算法导论（原书第3版）_13234228.pdf 链接: https://pan.baidu.com/s/1bYe0mPY5FGnSDL_Thw6ccw 提取码: 34mt
 
 高清电子版-算法分析导论_11562998.pdf 链接: https://pan.baidu.com/s/1lBGZtc_NI2GGLbTVuQ6RhA  密码: ol69
 
@@ -724,11 +725,11 @@
 
 高清电子版-O2O实战+他们是如何利用互联网的.pdf 链接: https://pan.baidu.com/s/1hjnYETG4ZA06GQ2CRFDcyg  密码: jstv
 
-高清电子版-程序员必读之软件架构.pdf 链接: https://pan.baidu.com/s/1Fzl_tjfzCh8Dh1Mk817egQ  密码: l756
+高清电子版-程序员必读之软件架构.pdf 链接: https://pan.baidu.com/s/1ZKBeC-qpCiz5HXhKUyvWWg 提取码: g69f
 
 高清电子版-大规模分布式存储系统：原理解析与架构实战.杨传辉.pdf 链接: https://pan.baidu.com/s/161qxqwtLgGlJ0YHiILhHrQ  密码: oagg
 
-高清电子版-大规模分布式系统架构与设计实战.完整版.pdf 链接: https://pan.baidu.com/s/1vqJn-7olIXEVXySkS_DLrg  密码: 67hr
+高清电子版-大规模分布式系统架构与设计实战.完整版.pdf 链接: https://pan.baidu.com/s/1Z7vTdiZ2d-iK21EUuMb4YA 提取码: 87g7
 
 高清电子版-大型分布式网站架构设计与实践.带目录书签.完整版.pdf 链接: https://pan.baidu.com/s/1fhPlU7GmA0vnLeCGB_gAjw  密码: 264s
 
@@ -738,11 +739,11 @@
 
 高清电子版-架构即未来 现代企业可扩展的Web架构流程和组织原书第2版.pdf 链接: https://pan.baidu.com/s/16Z0kbH0b1aa7wyUWOmuLgQ  密码: mat1
 
-高清电子版-架构探险 从零开始写javaweb框架.pdf 链接: https://pan.baidu.com/s/19oYPYUA4Rj0eahc183gA8w  密码: 18p5
+高清电子版-架构探险 从零开始写javaweb框架.pdf 链接: https://pan.baidu.com/s/1UM1usjVecZERRdhmwpCemQ 提取码: 7046
 
 高清电子版-架构演进：滴滴打车架构演变及应用实践.pdf 链接: https://pan.baidu.com/s/1F-KRTwulXg_8EUiq_kG7zQ  密码: 7pkr
 
-高清电子版-架构演进：豆瓣架构演进.pdf 链接: https://pan.baidu.com/s/10kKKyWhNU8YHIOOHcQUc8A  密码: mvs6
+高清电子版-架构演进：豆瓣架构演进.pdf 链接: https://pan.baidu.com/s/1Y48N5tSmT5DWOzAxEUzdgA 提取码: 84tj
 
 高清电子版-架构演进：京东服务框架实践.pdf 
 
@@ -752,7 +753,7 @@
 
 高清电子版-架构演进：人寿系统架构演变.pdf 链接: https://pan.baidu.com/s/1ylqHZhaTV39axDqbHt2v5A  密码: qcwf
 
-高清电子版-架构演进：微信之道－至简.pdf 链接: https://pan.baidu.com/s/18TWUvPdulbLtXOfTWvAlRA  密码: vdlf
+高清电子版-架构演进：微信之道－至简.pdf 链接: https://pan.baidu.com/s/1xQoisbm_AxlE9OQqGryHdQ 提取码: gc8o
 
 高清电子版-架构演进：小米的经验分享.pdf 链接: https://pan.baidu.com/s/1au08n9vz03LC2jGZ339pNg  密码: 6lm4
 
@@ -764,11 +765,11 @@
 
 高清电子版-软件构架实践_第二版_林_巴斯等著.pdf 链接: https://pan.baidu.com/s/1BUQ4JKwDcnUAbCNrx-ufPg  密码: hf68
 
-高清电子版-推荐系统整体架构和mycat.pdf 链接: https://pan.baidu.com/s/19jwdxSY30Y4VbHAUoTnVGA  密码: f9it
+高清电子版-推荐系统整体架构和mycat.pdf 链接: https://pan.baidu.com/s/1iZ8ry_t-X6ma-jo6ksn4FQ 提取码: dr1o
 
-高清电子版-系统分析与设计 敏捷迭代方法 原书第6版.pdf 链接: https://pan.baidu.com/s/1ZdQvhXRyvG23Vn6fRHj_EQ  密码: ua40
+高清电子版-系统分析与设计 敏捷迭代方法 原书第6版.pdf 链接: https://pan.baidu.com/s/1dbaLgR66cArc62mSt7Il6w 提取码: c64o
 
-高清电子版-系统分析与设计 原书第7版_12542983.pdf 链接: https://pan.baidu.com/s/1X1sAqZHIZUFnN7u65APOgA  密码: ptto
+高清电子版-系统分析与设计 原书第7版_12542983.pdf 链接: https://pan.baidu.com/s/15Prw6LWbzPj61mvfjXaDFA 提取码: mfw6
 
 高清电子版-系统分析与设计导论_12908190.pdf 链接: https://pan.baidu.com/s/1l4AzCCCZrOgGeTbY9Ia63Q  密码: aktr
 
@@ -902,7 +903,7 @@
 
 高清电子版-轻量级微服务架构（下册）.pdf 链接: https://pan.baidu.com/s/1A6GJK1jkB4738d1QoyR36Q  密码: q0s5
 
-高清电子版-微服设计.pdf 链接: https://pan.baidu.com/s/1WssgSuX-dWF-NpQT79_-3g  密码: 95sp
+高清电子版-微服设计.pdf 链接: https://pan.baidu.com/s/1CCKbYk3w2NNiunBRUep_ag 提取码: mw52
 
 ### 数据库
 
@@ -912,7 +913,7 @@
 
 高清电子版-数据库设计教程 第2版_11474555.pdf 链接: https://pan.baidu.com/s/1oUne9RVsslo1e7Ic0xYqDA  密码: w8kl
 
-高清电子版-数据库系统 设计 实现与管理 基础篇_14020444.pdf 链接: https://pan.baidu.com/s/1xbWOgsFvgZn8bT_Z3LS9mQ  密码: 33oj
+高清电子版-数据库系统 设计 实现与管理 基础篇_14020444.pdf 链接: https://pan.baidu.com/s/1OvS4EqIlIJdTRXgvloyrbw 提取码: sr3t
 
 高清电子版-数据库系统导论. 原书第8版. 11868713.pdf 链接: https://pan.baidu.com/s/1wTgpTeg8bwqSg8b539cksg  密码: pp2k
 
@@ -924,7 +925,7 @@
 
 高清电子版-数据库系统实现_12576367.pdf 链接: https://pan.baidu.com/s/180reFoXNCY0VOhfHCT7siA  密码: 5w67
 
-高清电子版-数据库与事务处理. 11393943.pdf 链接: https://pan.baidu.com/s/1tUd2aFnGcWz3VtrOiJiRUQ  密码: isne
+高清电子版-数据库与事务处理. 11393943.pdf 链接: https://pan.baidu.com/s/1VzDXsFL_q0V1eB2zYuMH0A 提取码: 345i
 
 高清电子版-数据库管理系统 （原书第三版）_11718627.pdf 
 
@@ -986,7 +987,7 @@
 
 高清电子版-软件测试原理与实践principles and practices_12248342.pdf 
 
-高清电子版-软件工程 架构驱动的软件开发_14069604.pdf 
+高清电子版-软件工程 架构驱动的软件开发_14069604.pdf 链接: https://pan.baidu.com/s/1TPo3Vk6CU-pKM29JkmiOlg 提取码: 9adg
 
 高清电子版-软件工程 面向对象和传统的方法 原书第8版_12870799.pdf 
 
