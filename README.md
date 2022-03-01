@@ -59,7 +59,7 @@
 
 高清电子版-Java特种兵 上.pdf 
 
-高清电子版-java性能优化权威指南（带书签）.pdf 
+高清电子版-java性能优化权威指南（带书签）.pdf 链接: https://pan.baidu.com/s/1u0e6I1dGgW_k2QbktF1yKA 提取码: wqip 
 
 高清电子版-Java与模式(清晰书签版).pdf 
 
@@ -113,8 +113,6 @@
 
 高清电子版-Head First Servlets and JSP 中文版 第2版.pdf 链接: https://pan.baidu.com/s/18-_tDYI68m0SFc_sQiDTDA 提取码: iw4v
 
-高清电子版-J2EE集群的神秘面纱 (1).pdf 
-
 高清电子版-Java RESTful Web Service实战 [韩陆著].pdf 链接: https://pan.baidu.com/s/1R4tPgNfNgr50zWJ-4_5Fyg 提取码: iqjj
 
 高清电子版-JAVA web模式设计之道(jb51.net).pdf 链接: https://pan.baidu.com/s/1rw-hNFvSVIbCZHw44ys64w  密码: u30e
@@ -128,8 +126,6 @@
 高清电子版-servlet-3_0-final-spec.pdf 链接: https://pan.baidu.com/s/1zE6EfEWJPZsBvlVLJyhX0g  密码: jmd5
 
 高清电子版-SERVLETJSP01_IMAGE.pdf 链接: https://pan.baidu.com/s/1ckHthX5aUzM6Kkve3tHKhA  密码: aliu
-
-高清电子版-SERVLETJSP02_IMAGE.pdf 
 
 高清电子版-Struts2轻松入门.pdf 链接: https://pan.baidu.com/s/1K_Cpmn9ZeRm5EuF82pp_LQ  密码: sgbb
 
@@ -145,8 +141,6 @@
 
 高清电子版-[Java] 深入浅出Servlets.and.JSP第二版.pdf 链接: https://pan.baidu.com/s/1t6i3gvfOWJk48pc-80PC6g  密码: pqqs
 
-高清电子版-[Java典型应用彻查1000例：Web应用开发].pdf 
-
 高清电子版-[使用Java.Web服务构建SOA].(汉森).成保栋.pdf 链接: https://pan.baidu.com/s/1oSzJv1mDQwjLwOto5hoETg  密码: vc0m
 
 高清电子版-《Java+Web开发与实战--Eclipse+Tomcat+Servlet+JSP整合应用》.pdf 链接: https://pan.baidu.com/s/1fmyXVuVjnXzYEXm32MFqnQ  密码: taw3
@@ -154,8 +148,6 @@
 高清电子版-《servlet和jsp学习指南》.pdf 链接: https://pan.baidu.com/s/1_skCpLtDJhFOs2FOr3RXcw  密码: g5qk
 
 高清电子版-高性能响应式Web开发实战.pdf 链接: https://pan.baidu.com/s/1JqI-H1TBbtcbwPgmJ5DsOA  密码: l56f
-
-高清电子版-精通struts2实用教程(清晰、带目录).pdf 
 
 高清电子版-深入分析Java Web技术内幕 修订版.pdf 链接: https://pan.baidu.com/s/1kiRo_TphKB9nuLa3IEDTYw  密码: rsak
 
@@ -289,85 +281,77 @@
 
 ### SpringBoot相关
 
-高清电子版-JavaEE开发的颠覆者 Spring Boot实战 完整版.pdf 
+高清电子版-JavaEE开发的颠覆者 Spring Boot实战 完整版.pdf 链接: https://pan.baidu.com/s/1KXocZK7g0EHHuKzNj66xqQ 提取码: qcll 
 
-高清电子版-Spring Boot 2参考手册中文文档.pdf 
+高清电子版-Spring Boot 2参考手册中文文档.pdf 链接: https://pan.baidu.com/s/1cKcj4DcJ0aFnbTeSAMEJUA 提取码: g120 
 
-高清电子版-Spring Boot 2精髓.pdf 
+高清电子版-Spring Boot 2精髓.pdf 链接: https://pan.baidu.com/s/1fsM75Dacj6oLUk-bzXmJzg 提取码: ledw 
 
-高清电子版-Spring Boot 2精髓带书签目录高清版.pdf 
+高清电子版-Spring Boot 2精髓带书签目录高清版.pdf 链接: https://pan.baidu.com/s/1Y8TMwIIfzjC8WLGAoGrkdA 提取码: u2e1 
 
-高清电子版-Spring Boot Cookbook.pdf 
+高清电子版-Spring Boot Cookbook.pdf 链接: https://pan.baidu.com/s/16CIaeK0FcpNwkMkAvdFPyw 提取码: or9v 
 
-高清电子版-Spring Boot 企业级应用开发实战 柳伟卫 2018.3 Pg442.pdf 
+高清电子版-Spring Boot 企业级应用开发实战 柳伟卫 2018.3 Pg442.pdf 链接: https://pan.baidu.com/s/1B-VfptRbzF44tDPdJh7zZQ 提取码: 1u4o 
 
-高清电子版-Spring Boot实战 丁雪丰 (译者) .pdf 
+高清电子版-Spring Boot实战 丁雪丰 (译者) .pdf 链接: https://pan.baidu.com/s/1Rds1wiIQW_182bLdZWpOpA 提取码: dflu 
 
-高清电子版-Spring Cloud微服务实战.pdf 
+高清电子版-Spring Cloud微服务实战.pdf 链接: https://pan.baidu.com/s/1EQcn39UfzKUp9pLMSxIjUA 提取码: 3l9v 
 
-高清电子版-spring-boot-reference-guide-zh.pdf 
+高清电子版-spring-boot-reference-guide-zh.pdf 链接: https://pan.baidu.com/s/16GGSG9ZGkREPQ1OAmgrR7w 提取码: oe2k 
 
 高清电子版-Spring.Boot.in.Action.2015.12.pdf 
 
-高清电子版-Spring.in.Action_4th.Edition-Spring实战(第4版文字版).pdf 
+高清电子版-Spring.in.Action_4th.Edition-Spring实战(第4版文字版).pdf 链接: https://pan.baidu.com/s/1NQThOftvTEL4039E-JyBdw 提取码: i0d6 
 
-高清电子版-SpringBoot揭秘快速构建微服务体系.pdf 
+高清电子版-SpringBoot揭秘快速构建微服务体系.pdf 链接: https://pan.baidu.com/s/1EWIniFsEaePaeZkJx5s-kw 提取码: 8gw2 
 
-高清电子版-SpringBoot实战(第4版).pdf 
-
-高清电子版-SpringBoot实战pdf（超清完整版，美翻译版)??.pdf 
-
-高清电子版-SpringCloud微服务实战-翟永超-高清完整版.pdf 
+高清电子版-SpringBoot实战(第4版).pdf 链接: https://pan.baidu.com/s/1akKn2hcLMyQ_PJiemQR09Q 提取码: 6n8e 
 
 高清电子版-SpringCloud中文文档.pdf 
 
-高清电子版-Spring_Cloud_Data_Flow.pdf 
+高清电子版-Spring_Cloud_Data_Flow.pdf 链接: https://pan.baidu.com/s/1Dozf1TgvYgVC2e_4fK-Lfg 提取码: mco8 
 
-高清电子版-Spring微服务 RajeshRV 2018.06 Pg327.pdf 
+高清电子版-Spring微服务 RajeshRV 2018.06 Pg327.pdf 链接: https://pan.baidu.com/s/19he3izaYc4Qce4jyF5SNDQ 提取码: t5og 
 
-高清电子版-Spring微服务实战 约翰·卡内尔 2018.6 Pg298.pdf 
+高清电子版-Spring微服务实战 约翰·卡内尔 2018.6 Pg298.pdf 链接: https://pan.baidu.com/s/1XG_IXomn2CgUg1saXifN-w 提取码: sie3 
 
-高清电子版-《SpringBoot揭秘：快速构建微服务体系》.pdf 
+高清电子版-《SpringBoot揭秘：快速构建微服务体系》.pdf 链接: https://pan.baidu.com/s/1eLWfK5ATSVSm1F5ztEdifg 提取码: 19p4 
 
-高清电子版-从零开始学Spring Boot.pdf 
+高清电子版-从零开始学Spring Boot.pdf 链接: https://pan.baidu.com/s/1ImLEtS9V4lqjYm42pMfjZQ 提取码: l1fb 
 
-高清电子版-开源电子书：spring boot 开发手册文档.pdf 
+高清电子版-开源电子书：spring boot 开发手册文档.pdf 链接: https://pan.baidu.com/s/1H45UxWwRgszzONW2ek56EA 提取码: pb9s 
 
-高清电子版-深入浅出Spring Boot 2.x 杨开振 2018.8 10元.pdf 
+高清电子版-深入浅出Spring Boot 2.x 杨开振 2018.8.pdf 链接: https://pan.baidu.com/s/1VjwPNtWcLXulz8EyRhj1IQ 提取码: oowo 
 
-高清电子版-深入实践Spring Boot.陈韶健.pdf 
+高清电子版-深入实践Spring Boot.陈韶健.pdf 链接: https://pan.baidu.com/s/1thgxrKX_p-cjmnte5_AIKA 提取码: igf8 
 
 ### SpringData相关
 
-高清电子版-Spring Data JPA从入门到精通_张振华(著) 清华大学出版社2018-05-01_z1861511.pdf 
+高清电子版-Spring Data JPA从入门到精通_张振华(著) 清华大学出版社.pdf 链接: https://pan.baidu.com/s/1DzHDNGrVgtzFv_QWPQ7wdw 提取码: qe7r 
 
-高清电子版-Spring Data实战.pdf 
+高清电子版-Spring Data实战.pdf 链接: https://pan.baidu.com/s/1KZP_GDNZkqDdgK7Zn48UnQ 提取码: hhl2 
 
 ### SpringCloud相关
 
-高清电子版-Spring Cloud Dalston中文文档+参考手册+中文版.pdf 
+高清电子版-Spring Cloud Dalston中文文档+参考手册+中文版.pdf 链接: https://pan.baidu.com/s/1oXZlctORrson4dClCgrm3w 提取码: se1t 
 
-高清电子版-Spring Cloud Finchley.RELEASE参考手册 中文文档.pdf 
+高清电子版-Spring Cloud Finchley.RELEASE参考手册 中文文档.pdf 链接: https://pan.baidu.com/s/1v__DF2uXhUjeDF5nUcrRsA 提取码: 7nr0 
 
-高清电子版-Spring Cloud微服务架构开发实战.pdf 
+高清电子版-Spring Cloud微服务架构开发实战.pdf 链接: https://pan.baidu.com/s/1bSowtsyIHm3eBUdnyTacvQ 提取码: l9fm 
 
-高清电子版-Spring Cloud微服务实战.pdf 
+高清电子版-Spring Cloud微服务实战.pdf 链接: https://pan.baidu.com/s/1kNAnPlDPdozlUowkzgp6RA 提取码: h0rj 
 
-高清电子版-Spring Cloud与Docker微服务架构实战.pdf 
+高清电子版-Spring Cloud与Docker微服务架构实战.pdf 链接: https://pan.baidu.com/s/1GZpoM1LAvfuo8Jn1IpMYyA 提取码: 6546 
 
-高清电子版-《Spring Cloud与Docker微服务架构实战》.pdf 
+高清电子版-《深入理解Spring Cloud与微服务构建》.pdf 链接: https://pan.baidu.com/s/12j0x_KiHMkTYCxDQmgYhPg 提取码: 5j8d 
 
-高清电子版-《深入理解Spring Cloud与微服务构建》.pdf 
+高清电子版-疯狂Spring Cloud微服务架构实战.pdf 链接: https://pan.baidu.com/s/1Mtc-LSRPy5Q3U-QFQqrUWA 提取码: rh3w 
 
-高清电子版-疯狂Spring Cloud微服务架构实战.pdf 
+高清电子版-微服务分布式构架开发实战 龚鹏 2018.2 Pg202.pdf 链接: https://pan.baidu.com/s/1_EqR0_pKdDzh2y-PLrqJ9w 提取码: ka70 
 
-高清电子版-深入理解Spring Cloud与微服务构建 .pdf 
+高清电子版-微服务架构基础 Spring Boot+Spring Cloud+Docker 黑马程序员 2018.4 Pg180.pdf 链接: https://pan.baidu.com/s/1F7NIvF4KXJxkelCegnFd9w 提取码: 34ut 
 
-高清电子版-微服务分布式构架开发实战 龚鹏 2018.2 Pg202.pdf 
-
-高清电子版-微服务架构基础 Spring Boot+Spring Cloud+Docker 黑马程序员 2018.4 Pg180.pdf 
-
-高清电子版-重新定义Spring Cloud实战 许进.pdf 
+高清电子版-重新定义Spring Cloud实战 许进.pdf 链接: https://pan.baidu.com/s/12P3FvXD_GmYjPHNmr7H5WQ 提取码: dt2o 
 
 ### Mybatis相关
 
@@ -389,19 +373,19 @@
 
 ### Tomcat
 
-高清电子版-How Tomcat Works中文版.pdf 
+高清电子版-How Tomcat Works中文版.pdf 链接: https://pan.baidu.com/s/1Hgv0QasbFsz7f07cGlMIwg 提取码: d4q1 
 
-高清电子版-Tomcat架构解析.刘光瑞(详细书签).pdf 
+高清电子版-Tomcat架构解析.刘光瑞(详细书签).pdf 链接: https://pan.baidu.com/s/1nIYACelkzq2Vn1dWK3LWlA 提取码: e9bs 
 
-高清电子版-Tomcat内核设计剖析.pdf 
+高清电子版-Tomcat内核设计剖析.pdf 链接: https://pan.baidu.com/s/1FOIsilEb_bgVatgpnTJaiA 提取码: tst3 
 
-高清电子版-Tomcat权威指南(第2版).pdf 
+高清电子版-Tomcat权威指南(第2版).pdf 链接: https://pan.baidu.com/s/1IYNpPAKtGc9ZvgUNzQuHiw 提取码: 7rhe 
 
 高清电子版-Tomcat源码研究.pdf 
 
-高清电子版-基于_Tomcat5.0和_Axis2开发Web_Service应用实例.pdf 
+高清电子版-基于_Tomcat5.0和_Axis2开发Web_Service应用实例.pdf 链接: https://pan.baidu.com/s/1pNgZxOCfWROGjFM2WlGZZw 提取码: c83n 
 
-高清电子版-深入剖析Tomcat（中文版）.pdf 
+高清电子版-深入剖析Tomcat（中文版）.pdf 链接: https://pan.baidu.com/s/1gZ-MTuqyXQ_-hVJoAem2mw 提取码: ebwj 
 
 ### Java爬虫篇
 
@@ -497,7 +481,7 @@
 
 高清电子版-深入浅出MySQL数据库开发优化与管理维护.pdf 链接: https://pan.baidu.com/s/1H9AoyIY5gyHidS61c7GAWw 提取码: 6cou
 
-高清电子版-数据库查询优化器的艺术：原理解析与SQL性能优化.pdf 
+高清电子版-数据库查询优化器的艺术：原理解析与SQL性能优化.pdf 链接: https://pan.baidu.com/s/104LCsJ0oDbK6BJm2CqgUWw 提取码: sibr 
 
 ### MongoDB
 
@@ -579,11 +563,7 @@
 
 高清电子版-24个java代码(Java经典模式设计).pdf 链接: https://pan.baidu.com/s/1LCdlcnJE9lJCMZ3iwq_l4Q 提取码: 21jq
 
-高清电子版-Head First设计模式高清版.pdf 
-
-高清电子版-Java设计模式第2版中文版.pdf 
-
-高清电子版-Java与模式(清晰书签版).pdf 
+高清电子版-Head First设计模式高清版.pdf 链接: https://pan.baidu.com/s/1ge6w9H3imGxzBgXbVBnElg 提取码: 2v6j 
 
 高清电子版-[Java] Head First 设计模式（中文版）.pdf 链接: https://pan.baidu.com/s/1VkqfgdHi3rOl1bVzquIqKQ  密码: 4ov0
 
@@ -596,12 +576,6 @@
 高清电子版-设计模式之禅（第2版）.pdf 链接: https://pan.baidu.com/s/1DeHgacT8O1Awr8J9Bycp4Q 提取码: rqkw
 
 高清电子版-设计有效的数据库系统_12511476.pdf 链接: https://pan.baidu.com/s/1TE_etHMFVbwQ9zkoZNsEnQ  密码: joms
-
-高清电子版-图解设计模式.pdf 
-
-高清电子版-研磨设计模式---高清版.pdf 
-
-高清电子版-研磨设计模式.pdf 
 
 ### Linux
 
@@ -635,9 +609,9 @@
 
 高清电子版-鸟哥的LINUX私房菜_基础学习篇(第三版).pdf 链接: https://pan.baidu.com/s/1tSDlmgxIaGhqOuyfh3qq4Q  密码: ce6n
 
-高清电子版-鸟哥的LINUX私房菜：服务器架设篇 （第二版）.pdf 
+高清电子版-鸟哥的LINUX私房菜：服务器架设篇 （第二版）.pdf 链接: https://pan.baidu.com/s/1m3bRZne78AqMgztTUr6EIQ 提取码: hmqn 
 
-高清电子版-鸟哥的Linux私房菜服务器架设篇 第三版 .pdf 
+高清电子版-鸟哥的Linux私房菜服务器架设篇 第三版 .pdf 链接: https://pan.baidu.com/s/1m3bRZne78AqMgztTUr6EIQ 提取码: hmqn
 
 高清电子版-鸟哥私房菜（全）.pdf 链接: https://pan.baidu.com/s/1_jg7ZEx-jhrjUsgrCmhm-g  密码: lc4c
 
@@ -745,7 +719,7 @@
 
 高清电子版-架构演进：豆瓣架构演进.pdf 链接: https://pan.baidu.com/s/1Y48N5tSmT5DWOzAxEUzdgA 提取码: 84tj
 
-高清电子版-架构演进：京东服务框架实践.pdf 
+高清电子版-架构演进：京东服务框架实践.pdf 链接: https://pan.baidu.com/s/1DJk5lZG5Dm0m0rchvBqoMA 提取码: r3sp 
 
 高清电子版-架构演进：京东应用架构设计.pdf 链接: https://pan.baidu.com/s/1Kz02mUQa79DGuoJ008outQ  密码: o9ho
 
@@ -777,8 +751,6 @@
 
 高清电子版-系统架构：复杂系统的产品设计与开发.pdf 链接: https://pan.baidu.com/s/1ltyzSGQ62JdeVV0OU4vaVQ  密码: d9k0
 
-高清电子版-一线架构师实践指南.pdf 
-
 高清电子版-云计算架构技术与实践+第2版.pdf 链接: https://pan.baidu.com/s/1MRd5UCllczQzsYlbF4Cxyg  密码: ab97
 
 ### Elasticsearch
@@ -795,33 +767,33 @@
 
 ### 大数据
 
-高清电子版-3 分布式文件系统HDFS，大数据存储实战.pdf 
+高清电子版-3 分布式文件系统HDFS，大数据存储实战.pdf 链接: https://pan.baidu.com/s/1g1tPVHp2eaDs1NPc00aHMg 提取码: 8dfb 
 
-高清电子版-books 白话大数据与机器学习_章节目录.pdf 
+高清电子版-books 白话大数据与机器学习_章节目录.pdf 链接: https://pan.baidu.com/s/1xY03Iojwpkt-6-km6HKMAg 提取码: mt25 
 
-高清电子版-Druid实时大数据分析原理与实践.pdf 
+高清电子版-Druid实时大数据分析原理与实践.pdf 链接: https://pan.baidu.com/s/1aiQitIb1cYAW2XrryrhLaw 提取码: k0g8 
 
-高清电子版-Hadoop大数据分析与挖掘实战.pdf 
+高清电子版-Hadoop大数据分析与挖掘实战.pdf 链接: https://pan.baidu.com/s/1uoArP_40GPcD23I-BH8ReQ 提取码: mghs 
 
-高清电子版-Hadoop公平调度器指南.pdf 
+高清电子版-Hadoop公平调度器指南.pdf 链接: https://pan.baidu.com/s/1FlnfMJtv1P_67QnyCQk7oA 提取码: dfh8 
 
-高清电子版-hadoop简介.pdf 
+高清电子版-hadoop简介.pdf 链接: https://pan.baidu.com/s/16Ds_sHVLPxo8Nm5lMglccQ 提取码: 8q2u 
 
-高清电子版-hadoop开发者第三期.pdf 
+高清电子版-hadoop开发者第三期.pdf 链接: https://pan.baidu.com/s/17YzJvNwiI1Zb1Bg_e0T96A 提取码: 2stk 
 
 高清电子版-Hadoop开发者第四期.pdf 
 
-高清电子版-Hadoop开发者入门专刊.pdf 
+高清电子版-Hadoop开发者入门专刊.pdf 链接: https://pan.baidu.com/s/1CZ8Ox4XABiwlbIrCfpWONw 提取码: e9k1 
 
 高清电子版-Hadoop权威指南（中文第2版）.pdf 
 
-高清电子版-HBase实战.pdf 
+高清电子版-HBase实战.pdf 链接: https://pan.baidu.com/s/13Sd9GtEcdrDZ4ALiD1HJjQ 提取码: udg5 
 
-高清电子版-Hive 简明教程.pdf 
+高清电子版-Hive 简明教程.pdf 链接: https://pan.baidu.com/s/1tBnfJzAyoSbM8oPA0RlPSg 提取码: or2c 
 
 高清电子版-Python机器学习——预测分析核心算法.pdf 
 
-高清电子版-scala伴生对象.pdf 
+高清电子版-scala伴生对象.pdf 链接: https://pan.baidu.com/s/18vZT0yMPZQr5F2I8KSlSuw 提取码: co1u 
 
 高清电子版-scala基础语法.pdf 
 
@@ -833,7 +805,7 @@
 
 高清电子版-Solr权威指南下卷.pdf 
 
-高清电子版-SparkContext.pdf 
+高清电子版-SparkContext.pdf 链接: https://pan.baidu.com/s/18JSnfozHZ7pQLR1RK8XAaw 提取码: 87am 
 
 高清电子版-spark初识.pdf 
 
@@ -857,7 +829,7 @@
 
 高清电子版-不错资料_hadoop搭建与eclipse开发环境设置.pdf 
 
-高清电子版-大数据：互联网大规模数据挖掘与分布式处理.pdf 
+高清电子版-大数据：互联网大规模数据挖掘与分布式处理.pdf 链接: https://pan.baidu.com/s/1GVSWCksBMzlsM37rzS4AcQ 提取码: i31h 
 
 高清电子版-大数据处理hive深入详解.pdf 
 
@@ -869,7 +841,7 @@
 
 高清电子版-大数据搜索与日志挖掘及可视化方案++ELK+Stack++Elasticsearch+Logstash+Kibana++第2版.pdf 
 
-高清电子版-大数据算法.pdf 
+高清电子版-大数据算法.pdf 链接: https://pan.baidu.com/s/1639CnEcA5Tn_fNzrJV8T_g 提取码: 1rlv 
 
 高清电子版-傅强-当当在大数据挖掘分析与管理—个性化精准营销方面的探索.pdf 
 
@@ -885,7 +857,7 @@
 
 高清电子版-细细品味Hadoop_Hadoop集群（第7期）_Eclipse开发环境设置.pdf 
 
-高清电子版-用户网络行为画像 大数据中的用户网络行为画像分析与内容推荐应用.pdf 
+高清电子版-用户网络行为画像 大数据中的用户网络行为画像分析与内容推荐应用.pdf 链接: https://pan.baidu.com/s/1mqbQBQOOY0q6o7HjQGKjwg 提取码: 8962 
 
 高清电子版-云计算大数据10.9日课腾讯邮箱垃圾邮箱解密-机器学习之贝叶斯分类.pdf 
 
@@ -927,11 +899,11 @@
 
 高清电子版-数据库与事务处理. 11393943.pdf 链接: https://pan.baidu.com/s/1VzDXsFL_q0V1eB2zYuMH0A 提取码: 345i
 
-高清电子版-数据库管理系统 （原书第三版）_11718627.pdf 
+高清电子版-数据库管理系统 （原书第三版）_11718627.pdf 链接: https://pan.baidu.com/s/1W15FRUzYCn6-L7fvpdCxag 提取码: eq80 
 
 ### Kotlin
 
-高清电子版-Kotlin实战.pdf 
+高清电子版-Kotlin实战.pdf 链接: https://pan.baidu.com/s/16Dj7Q89OeWmcxBqoogl7Zg 提取码: 3qjr 
 
 ### 分布式
 
@@ -1007,13 +979,13 @@
 
 高清电子版-C程序设计语言(英文第2版)Prentice Hall.-.The C Programming Language(2nd Edition).pdf 
 
-高清电子版-C程序设计语言_第2版新版（高清）.pdf 
+高清电子版-C程序设计语言_第2版新版（高清）.pdf 链接: https://pan.baidu.com/s/1edKhZqFukjXY1613eb2N6Q 提取码: 77kq 
 
 高清电子版-C程序设计语言（第2版 新版）.pdf 
 
-高清电子版-C程序设计语言（第2版 新版）习题解答.pdf 
+高清电子版-C程序设计语言（第2版 新版）习题解答.pdf 链接: https://pan.baidu.com/s/1t-5EChcZcZqkaPlgy47Otg 提取码: s17m 
 
-高清电子版-C程序设计语言（第2版）中文译版.pdf 
+高清电子版-C程序设计语言（第2版）中文译版.pdf 链接: https://pan.baidu.com/s/1Euqj1nUawoS1PX5Te3Ebyw 提取码: 1pui 
 
 高清电子版-C大纲.pdf 
 
@@ -1025,7 +997,7 @@
 
 高清电子版-c与指针.pdf 
 
-高清电子版-C语言参考手册第五版.pdf 
+高清电子版-C语言参考手册第五版.pdf 链接: https://pan.baidu.com/s/1Euqj1nUawoS1PX5Te3Ebyw 提取码: 1pui 
 
 高清电子版-C语言程序设计 现代方法 第2版.pdf 
 
@@ -1041,9 +1013,9 @@
 
 高清电子版-C专家编程.pdf 
 
-高清电子版-Linux C函数库参考手册.pdf 
+高清电子版-Linux C函数库参考手册.pdf 链接: https://pan.baidu.com/s/105KhS-cpZSNiMKAVDRzE_w 提取码: 116g 
 
-高清电子版-[数据结构(C语言版)].严蔚敏_吴伟民.扫描版.pdf 
+高清电子版-[数据结构(C语言版)].严蔚敏_吴伟民.扫描版.pdf 链接: https://pan.baidu.com/s/1tESVcKGX83kOvtDOooNi6A 提取码: cwln 
 
 高清电子版-华为C语言规范.pdf 
 
@@ -1267,7 +1239,7 @@
 
 高清电子版-人工智能 复杂问题求解的结构和策略 原书第6版_12492572.pdf 
 
-高清电子版-人工智能 智能系统指南（原书第3版）_13134360.pdf 
+高清电子版-人工智能 智能系统指南（原书第3版）_13134360.pdf 链接: https://pan.baidu.com/s/1gBWtMUEv02pA1KxUBKIS_Q 提取码: lnb7 
 
 高清电子版-神经网络与机器学习_12759105.pdf 
 
@@ -1303,7 +1275,7 @@
 
 高清电子版-10.C#程序员参考手册.pdf 
 
-高清电子版-12.C#技术内幕.pdf 
+高清电子版-12.C#技术内幕.pdf 链接: https://pan.baidu.com/s/1V3h3adtbnyw1wpPO85trHg 提取码: eam7 
 
 高清电子版-13.C#入门经典(第3版).pdf 
 
@@ -1315,11 +1287,11 @@
 
 高清电子版-17.C#与.NET技术平台实战演练.pdf 
 
-高清电子版-18.C#字符串和正则表达式参考手册.pdf 
+高清电子版-18.C#字符串和正则表达式参考手册.pdf 链接: https://pan.baidu.com/s/108NEgFhGD2P7SFKW9imwJQ 提取码: ulsw 
 
 高清电子版-19.Microsoft.C#.Windows.程序设计(上下册).pdf 
 
-高清电子版-2.ASP.NET.2.0.高级编程(第4版).pdf 
+高清电子版-2.ASP.NET.2.0.高级编程(第4版).pdf 链接: https://pan.baidu.com/s/1TAh8USRdqxWDWWETl9rvPA 提取码: qv3q 
 
 高清电子版-20.Microsoft.NET.框架程序设计(修订版).pdf 
 
@@ -1335,15 +1307,15 @@
 
 高清电子版-3.ASP.NET.2.0.入门经典(第4版).pdf 
 
-高清电子版-30.数据结构(C#语言版).pdf 
+高清电子版-30.数据结构(C#语言版).pdf 链接: https://pan.baidu.com/s/1gCz9kkfiM_h0VOg--Wt9dA 提取码: wskb 
 
-高清电子版-4.ASP.NET.2.0.数据库入门经典(第4版).pdf 
+高清电子版-4.ASP.NET.2.0.数据库入门经典(第4版).pdf 链接: https://pan.baidu.com/s/1gCz9kkfiM_h0VOg--Wt9dA 提取码: wskb 
 
 高清电子版-5.ASP.NET.基础教程——C#案例版.pdf 
 
 高清电子版-6.ASP.NET技术内幕.pdf 
 
-高清电子版-7.C#.COM..编程指南.pdf 
+高清电子版-7.C#.COM..编程指南.pdf 链接: https://pan.baidu.com/s/100tf-zD_53llCEE8keDuEw 提取码: p888 
 
 高清电子版-8.C#编程思想.pdf 
 
@@ -1351,7 +1323,7 @@
 
 高清电子版-C#2008编程参考手册].pdf 
 
-高清电子版-C#3.0完全自学宝典.pdf 
+高清电子版-C#3.0完全自学宝典.pdf 链接: https://pan.baidu.com/s/1X9ChdLN-NPibbjSwChjdEA 提取码: 25h1 
 
 高清电子版-C#编程宝典 十年典藏版.pdf 
 
